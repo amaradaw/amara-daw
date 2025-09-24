@@ -1,4 +1,5 @@
-<p align="center">Hello !<br>This is Amara <br>A student who is currently studying DAW <br>Here are some informations about me , and my social media</p>
+# <p align="center">Hello !<br>This is Amara <br>
+## A student who is currently studying DAW <br>Here are some informations about me , and my social media</p>
 
 ###
 
