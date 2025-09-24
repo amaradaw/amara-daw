@@ -100,8 +100,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawamara&show_icons=true&locale=en" alt="dawamara" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawamara&" alt="dawamara" /></p>
 
 ###
