@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">For now , Im working on Amara-DAW Project 🔭<br>Learning : **Markdown, HTML, CSS** 🌱<br>Open to collaborate on: Web Page Design & Content Editing 👯<br>Looking for guidance with: Java, JavaScript 🤝<br>Ask me about: General programming, learning to code, or DAW topics 💬<br>Reach me at: amaradaw@gmail.com or +34 654 32 33 56 📫<br>Fun fact: I'm not the biggest fan of Java 😅</p>
+<p align="left">For now , Im working on Amara-DAW Project 🔭<br>Learning : Markdown, HTML, CSS 🌱<br>Open to collaborate on: Web Page Design & Content Editing 👯<br>Looking for guidance with: Java, JavaScript 🤝<br>Ask me about: General programming, learning to code, or DAW topics 💬<br>Reach me at: amaradaw@gmail.com or +34 654 32 33 56 📫<br>Fun fact: I'm not the biggest fan of Java 😅</p>
 
 ###
 
